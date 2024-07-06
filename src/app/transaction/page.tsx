@@ -31,7 +31,7 @@ export default function Transaction() {
         <div className="text-center">
           <p className="text-xl mb-4">Transaction executed successfully!</p>
           <p className="text-lg">
-            Congratulations! You're on your way to fulfilling your financial goals!
+            Congratulations! You&apos;re on your way to fulfilling your financial goals!
           </p>
         </div>
       )}

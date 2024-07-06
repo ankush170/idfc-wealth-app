@@ -31,8 +31,8 @@ export default function GoalsForm() {
             className="w-full p-2 mb-2 border rounded"
           >
             <option value="">Select goal type</option>
-            <option value="education">Children's Education</option>
-            <option value="marriage">Children's Marriage</option>
+            <option value="education">Children&apos;s Education</option>
+            <option value="marriage">Children&apos;s Marriage</option>
             <option value="asset">Asset Purchase</option>
             <option value="retirement">Retirement Planning</option>
           </select>
